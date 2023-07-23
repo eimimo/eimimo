@@ -1,3 +1,5 @@
+## Fancy seeing you here! <img src="assets/wave.gif">
+
 <div align="center">
 <img max-width="800" src="assets/bio.png"/>
 </div>
