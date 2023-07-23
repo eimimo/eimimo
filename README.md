@@ -1,7 +1,7 @@
-## Fancy seeing you here! <img src="assets/wave.gif" width="30">
+## welcome to my profile! <img src="assets/wave.gif" width="30">
 
 <div align="center">
-<img max-width="80" src="assets/bio.png"/>
+<img max-width="80" src="assets/circles.png"/>
 </div>
 
 
