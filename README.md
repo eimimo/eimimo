@@ -1,5 +1,5 @@
 <div align="center">
-<img max-width="800" src="https://cdn.discordapp.com/attachments/1049580618557706295/1132564879300108328/yes_00000.png"/>
+<img max-width="800" src="assets/bio.png"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
