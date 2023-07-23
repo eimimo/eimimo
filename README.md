@@ -1,16 +1,36 @@
-### Hi there 👋
+# Project Name
 
-<!--
-**eimimo/eimimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies](#technologies)
+4. [Setup](#setup)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-Here are some ideas to get you started:
+## Introduction
+This project is about ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's why it's important ...
+
+## Features
+List of features ready and TODOs for future development:
+* Feature 1
+* Feature 2
+* Feature 3
+* TODO: Future development plan
+
+## Technologies
+Project is created with:
+* Tech 1: version
+* Tech 2: version
+* Tech 3: version
+
+## Setup
+To run this project, install it locally using ...
+
+```shell
+$ cd ../project_directory
+$ npm install
+$ npm start
