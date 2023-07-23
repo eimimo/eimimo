@@ -5,7 +5,7 @@
 </div>
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Tools I use:
 </br>
 
 <p align="center">
